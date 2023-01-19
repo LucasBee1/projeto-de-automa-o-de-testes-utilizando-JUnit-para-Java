@@ -1,0 +1,7 @@
+Crie uma nova classe Java para cada componente do seu aplicativo que deseja testar. Nessa classe, crie métodos de teste utilizando a anotação @Test. Certifique-se de que cada método de teste teste uma funcionalidade específica do seu aplicativo.
+
+Adicione o código do seu aplicativo à classe de teste, de forma que os métodos de teste possam utilizá-lo.
+
+Execute os testes JUnit utilizando a ferramenta de teste de unidade integrada ao seu ambiente de desenvolvimento ou rodando a classe de teste com o comando:
+
+mvn test
